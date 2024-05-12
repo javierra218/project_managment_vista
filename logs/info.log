@@ -1,0 +1,443 @@
+Info: : 2192 mini-second(s) publishing element CapabilityPattern:Plan_for_next_iteration[ProjectManagement\capabilitypatterns\Plan_for_next_iteration_7A1635D4.html]
+Info: CapabilityPattern:Plan_for_next_iteration: 2192 mini seconds publishing element
+Info: CapabilityPattern:Plan_for_next_iteration: 34 mini seconds publishing process specific layout data
+Info: Task:iteration_plan_review: 148 mini seconds publishing element
+Info: TaskDescriptor:iteration_plan_review: 7 mini seconds publishing element
+Info: Role:project_reviewer: 267 mini seconds publishing element
+Info: RoleDescriptor:project_reviewer: 3 mini seconds publishing element
+Info: Artifact:iteration_plan: 154 mini seconds publishing element
+Info: WorkProductDescriptor:iteration_plan: 5 mini seconds publishing element
+Info: Artifact:review_record: 6878 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_qapl.htm
+Info: : 6904 mini-second(s) publishing element Artifact:review_record[ProjectManagement\workproducts\review_record_CF0FA2D5.html]
+Info: Artifact:review_record: 6905 mini seconds publishing element
+Info: WorkProductDescriptor:review_record: 9 mini seconds publishing element
+Info: Task:develop_iteration_plan: 298 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_itpln.htm
+Info: Task:develop_iteration_plan: 296 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/itrwkfls/iwf_iwfs.htm
+Info: Task:develop_iteration_plan: 301 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_prpln.htm
+Info: Task:develop_iteration_plan: 291 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/referenc.htm#BOE00
+Info: Task:develop_iteration_plan: 294 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/itrwkfls/ms_lco.htm
+Info: Task:develop_iteration_plan: 294 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/itrwkfls/ms_lca.htm
+Info: : 1795 mini-second(s) publishing element Task:develop_iteration_plan[ProjectManagement\tasks\develop_iteration_plan_E79CD6B9.html]
+Info: Task:develop_iteration_plan: 1795 mini seconds publishing element
+Info: TaskDescriptor:develop_iteration_plan: 8 mini seconds publishing element
+Info: Role:project_manager: 62 mini seconds publishing element
+Info: RoleDescriptor:project_manager: 4 mini seconds publishing element
+Info: Artifact:requirements_attributes: 291 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/workflow/requirem/co_reqty.htm
+Info: Artifact:requirements_attributes: 288 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/workflow/requirem/co_trace.htm
+Info: Artifact:requirements_attributes: 306 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/workflow/requirem/co_trace.htm#Purpose of Traceability
+Info: Artifact:requirements_attributes: 296 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_ratgl.htm
+Info: : 1195 mini-second(s) publishing element Artifact:requirements_attributes[ProjectManagement\workproducts\requirements_attributes_7931538B.html]
+Info: Artifact:requirements_attributes: 1195 mini seconds publishing element
+Info: WorkProductDescriptor:requirements_attributes: 4 mini seconds publishing element
+Info: Artifact:risk_list: 297 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/workers/wk_projm.htm
+Info: Artifact:risk_list: 313 mini seconds publishing element
+Info: WorkProductDescriptor:risk_list: 7 mini seconds publishing element
+Info: Artifact:software_development_plan: 298 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_itpln.htm
+Info: Artifact:software_development_plan: 297 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_metr.htm
+Info: Artifact:software_development_plan: 296 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_riskpl.htm
+Info: Artifact:software_development_plan: 292 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_devcs.htm
+Info: Artifact:software_development_plan: 293 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_bmgl.htm
+Info: Artifact:software_development_plan: 292 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_uigls.htm
+Info: Artifact:software_development_plan: 298 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_ucmgl.htm
+Info: Artifact:software_development_plan: 289 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_desgl.htm
+Info: Artifact:software_development_plan: 295 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_prggl.htm
+Info: Artifact:software_development_plan: 292 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_tstgl.htm
+Info: Artifact:software_development_plan: 289 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_mansg.htm
+Info: Artifact:software_development_plan: 291 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_acpl.htm
+Info: Artifact:software_development_plan: 302 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_cmpln.htm
+Info: Artifact:software_development_plan: 304 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_prrsp.htm
+Info: : 4154 mini-second(s) publishing element Artifact:software_development_plan[ProjectManagement\workproducts\software_development_plan_B82C47D0.html]
+Info: Artifact:software_development_plan: 4155 mini seconds publishing element
+Info: WorkProductDescriptor:software_development_plan: 6 mini seconds publishing element
+Info: Artifact:software_arquitecture_document: 9 mini seconds publishing element
+Info: WorkProductDescriptor:software_arquitecture_document: 5 mini seconds publishing element
+Info: Artifact:vision: 289 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_bcase.htm
+Info: Artifact:vision: 293 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_rskls.htm
+Info: Artifact:vision: 298 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/workers/wk_sysan.htm
+Info: Artifact:vision: 292 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/toolment/reqpro/tm_dvisn.htm
+Info: : 1188 mini-second(s) publishing element Artifact:vision[ProjectManagement\workproducts\vision_7A95AF30.html]
+Info: Artifact:vision: 1188 mini seconds publishing element
+Info: WorkProductDescriptor:vision: 5 mini seconds publishing element
+Info: Task:develop_business_case: 77 mini seconds publishing element
+Info: TaskDescriptor:develop_business_case: 8 mini seconds publishing element
+Info: Artifact:business_case: 294 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_vsion.htm
+Info: Artifact:business_case: 311 mini seconds publishing element
+Info: WorkProductDescriptor:business_case: 5 mini seconds publishing element
+Info: CapabilityPattern:Conceive_New_Project: 113 mini seconds publishing element
+Info: CapabilityPattern:Conceive_New_Project: 34 mini seconds publishing process specific layout data
+Info: Task:project_approval_review: 12 mini seconds publishing element
+Info: TaskDescriptor:project_approval_review: 6 mini seconds publishing element
+Info: RoleDescriptor:project_reviewer: 2 mini seconds publishing element
+Info: WorkProductDescriptor:business_case: 4 mini seconds publishing element
+Info: WorkProductDescriptor:risk_list: 4 mini seconds publishing element
+Info: WorkProductDescriptor:vision: 5 mini seconds publishing element
+Info: WorkProductDescriptor:review_record: 6 mini seconds publishing element
+Info: Task:identify_and_assess_risks: 290 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_rskli.htm
+Info: Task:identify_and_assess_risks: 293 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/referenc.htm#JON94
+Info: Task:identify_and_assess_risks: 295 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/referenc.htm#CAR93
+Info: Task:identify_and_assess_risks: 296 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/activity/ac_evitr.htm
+Info: Task:identify_and_assess_risks: 299 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/activity/ac_idrsk.htm#Identify Risk Response Strategies
+Info: Task:identify_and_assess_risks: 286 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/activity/ac_idrsk.htm#Analyze and Prioritize Risks
+Info: : 1790 mini-second(s) publishing element Task:identify_and_assess_risks[ProjectManagement\tasks\identify_and_assess_risks_2485C8B9.html]
+Info: Task:identify_and_assess_risks: 1790 mini seconds publishing element
+Info: TaskDescriptor:identify_and_assess_risks: 9 mini seconds publishing element
+Info: RoleDescriptor:project_manager: 5 mini seconds publishing element
+Info: TaskDescriptor:develop_business_case: 11 mini seconds publishing element
+Info: Task:initiate_project: 12 mini seconds publishing element
+Info: TaskDescriptor:initiate_project: 5 mini seconds publishing element
+Info: WorkProductDescriptor:iteration_plan: 3 mini seconds publishing element
+Info: WorkProductDescriptor:software_development_plan: 4 mini seconds publishing element
+Info: CapabilityPattern:Evaluate_Project_Scope_and_Risk: 70 mini seconds publishing element
+Info: CapabilityPattern:Evaluate_Project_Scope_and_Risk: 29 mini seconds publishing process specific layout data
+Info: TaskDescriptor:identify_and_assess_risks: 9 mini seconds publishing element
+Info: RoleDescriptor:project_manager: 2 mini seconds publishing element
+Info: WorkProductDescriptor:vision: 4 mini seconds publishing element
+Info: WorkProductDescriptor:risk_list: 4 mini seconds publishing element
+Info: TaskDescriptor:develop_business_case: 7 mini seconds publishing element
+Info: WorkProductDescriptor:business_case: 3 mini seconds publishing element
+Info: CapabilityPattern:Develop_Software_Development_Plan: 153 mini seconds publishing element
+Info: CapabilityPattern:Develop_Software_Development_Plan: 75 mini seconds publishing process specific layout data
+Info: Task:develop_measurement_plan: 291 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_metri.htm
+Info: Task:develop_measurement_plan: 294 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_prjms.htm
+Info: Task:develop_measurement_plan: 297 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_prpln.htm#Project Organization
+Info: Task:develop_measurement_plan: 901 mini seconds publishing element
+Info: TaskDescriptor:develop_measurement_plan: 8 mini seconds publishing element
+Info: RoleDescriptor:project_manager: 8 mini seconds publishing element
+Info: WorkProductDescriptor:business_case: 3 mini seconds publishing element
+Info: WorkProductDescriptor:risk_list: 3 mini seconds publishing element
+Info: WorkProductDescriptor:vision: 4 mini seconds publishing element
+Info: Artifact:measurement_plan: 12 mini seconds publishing element
+Info: WorkProductDescriptor:measurement_plan: 4 mini seconds publishing element
+Info: Task:develop_risk_management_plan: 11 mini seconds publishing element
+Info: TaskDescriptor:develop_risk_management_plan: 5 mini seconds publishing element
+Info: Artifact:risk_management_plan: 10 mini seconds publishing element
+Info: WorkProductDescriptor:risk_management_plan: 4 mini seconds publishing element
+Info: Task:develop_product_acceptance_plan: 12 mini seconds publishing element
+Info: TaskDescriptor:develop_product_acceptance_plan: 6 mini seconds publishing element
+Info: Artifact:product_acceptance_plan: 10 mini seconds publishing element
+Info: WorkProductDescriptor:product_acceptance_plan: 4 mini seconds publishing element
+Info: Task:develop_problem_resolution_plan: 290 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/activity/ac_hexpr.htm
+Info: Task:develop_problem_resolution_plan: 291 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_stass.htm
+Info: Task:develop_problem_resolution_plan: 298 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_issues.htm
+Info: Task:develop_problem_resolution_plan: 296 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/activity/ac_monpr.htm
+Info: : 1194 mini-second(s) publishing element Task:develop_problem_resolution_plan[ProjectManagement\tasks\develop_problem_resolution_plan_C337928B.html]
+Info: Task:develop_problem_resolution_plan: 1194 mini seconds publishing element
+Info: TaskDescriptor:develop_problem_resolution_plan: 5 mini seconds publishing element
+Info: Artifact:problem_resolution_plan: 7 mini seconds publishing element
+Info: WorkProductDescriptor:problem_resolution_plan: 3 mini seconds publishing element
+Info: Task:develop_quality_assurance_plan: 10 mini seconds publishing element
+Info: TaskDescriptor:develop_quality_assurance_plan: 4 mini seconds publishing element
+Info: Artifact:quality_assurance_plan: 290 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_gloss.htm
+Info: Artifact:quality_assurance_plan: 290 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_sdp.htm
+Info: Artifact:quality_assurance_plan: 296 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_tstpl.htm
+Info: Artifact:quality_assurance_plan: 889 mini seconds publishing element
+Info: WorkProductDescriptor:quality_assurance_plan: 4 mini seconds publishing element
+Info: Task:define_project_organization_and_staffing: 21169 mini-seconds referencing external URL: http://sunset.usc.edu/COCOMOII/cocomo.html
+Info: Task:define_project_organization_and_staffing: 298 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/activity/ac_plph.htm#Estimate Project
+Info: : 21481 mini-second(s) publishing element Task:define_project_organization_and_staffing[ProjectManagement\tasks\define_project_organization_and_staffing_4BDBFE36.html]
+Info: Task:define_project_organization_and_staffing: 21482 mini seconds publishing element
+Info: TaskDescriptor:define_project_organization_and_staffing: 4 mini seconds publishing element
+Info: WorkProductDescriptor:software_development_plan: 7 mini seconds publishing element
+Info: Task:define_monitoring_and_control_processes: 13 mini seconds publishing element
+Info: TaskDescriptor:define_monitoring_and_control_processes: 5 mini seconds publishing element
+Info: Task:plan_phases_and_iterations: 296 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/itrwkfls/iwf_iii.htm
+Info: Task:plan_phases_and_iterations: 292 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/referenc.htm#BOE81
+Info: Task:plan_phases_and_iterations: 293 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/referenc.htm#PUT92
+Info: Task:plan_phases_and_iterations: 291 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/referenc.htm#MCO96
+Info: Task:plan_phases_and_iterations: 301 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/workflow/manageme/co_phase.htm
+Info: : 1492 mini-second(s) publishing element Task:plan_phases_and_iterations[ProjectManagement\tasks\plan_phases_and_iterations_B0B05650.html]
+Info: Task:plan_phases_and_iterations: 1492 mini seconds publishing element
+Info: TaskDescriptor:plan_phases_and_iterations: 8 mini seconds publishing element
+Info: Task:compile_software_development_plan: 11 mini seconds publishing element
+Info: TaskDescriptor:compile_software_development_plan: 4 mini seconds publishing element
+Info: Task:project_planning_review: 15 mini seconds publishing element
+Info: TaskDescriptor:project_planning_review: 6 mini seconds publishing element
+Info: RoleDescriptor:project_reviewer: 3 mini seconds publishing element
+Info: WorkProductDescriptor:review_record: 5 mini seconds publishing element
+Info: CapabilityPattern:Manage_Iteration: 123 mini seconds publishing element
+Info: CapabilityPattern:Manage_Iteration: 44 mini seconds publishing process specific layout data
+Info: Task:iteration_evaluation_criteria_review: 17 mini seconds publishing element
+Info: TaskDescriptor:iteration_evaluation_criteria_review: 4 mini seconds publishing element
+Info: RoleDescriptor:project_reviewer: 3 mini seconds publishing element
+Info: Artifact:test_plan: 11 mini seconds publishing element
+Info: WorkProductDescriptor:test_plan: 3 mini seconds publishing element
+Info: WorkProductDescriptor:review_record: 4 mini seconds publishing element
+Info: Task:iteration_acceptance_review: 10 mini seconds publishing element
+Info: TaskDescriptor:iteration_acceptance_review: 4 mini seconds publishing element
+Info: Artifact:iteration_assessment: 11 mini seconds publishing element
+Info: WorkProductDescriptor:iteration_assessment: 4 mini seconds publishing element
+Info: Task:acquire_staff: 297 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/activity/ac_dfpos.htm
+Info: Task:acquire_staff: 312 mini seconds publishing element
+Info: TaskDescriptor:acquire_staff: 5 mini seconds publishing element
+Info: RoleDescriptor:project_manager: 4 mini seconds publishing element
+Info: WorkProductDescriptor:iteration_plan: 5 mini seconds publishing element
+Info: WorkProductDescriptor:software_development_plan: 6 mini seconds publishing element
+Info: Task:initiate_iteration: 7 mini seconds publishing element
+Info: TaskDescriptor:initiate_iteration: 4 mini seconds publishing element
+Info: Artifact:work_order: 9 mini seconds publishing element
+Info: WorkProductDescriptor:work_order: 4 mini seconds publishing element
+Info: Task:assess_iteration: 291 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_deorv.htm
+Info: Task:assess_iteration: 312 mini seconds publishing element
+Info: TaskDescriptor:assess_iteration: 6 mini seconds publishing element
+Info: WorkProductDescriptor:business_case: 3 mini seconds publishing element
+Info: Artifact:development_case: 8 mini seconds publishing element
+Info: WorkProductDescriptor:development_case: 5 mini seconds publishing element
+Info: Artifact:development_organization_assesment: 6 mini seconds publishing element
+Info: WorkProductDescriptor:development_organization_assesment: 3 mini seconds publishing element
+Info: Artifact:issues_list: 10 mini seconds publishing element
+Info: WorkProductDescriptor:issues_list: 3 mini seconds publishing element
+Info: WorkProductDescriptor:measurement_plan: 3 mini seconds publishing element
+Info: Artifact:status_assessment: 14 mini seconds publishing element
+Info: WorkProductDescriptor:status_assessment: 3 mini seconds publishing element
+Info: Artifact:test_evaluation_summary: 296 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/workers/wk_tstmng.htm
+Info: Artifact:test_evaluation_summary: 305 mini seconds publishing element
+Info: WorkProductDescriptor:test_evaluation_summary: 4 mini seconds publishing element
+Info: WorkProductDescriptor:vision: 4 mini seconds publishing element
+Info: CapabilityPattern:Close-out_Project: 68 mini seconds publishing element
+Info: CapabilityPattern:Close-out_Project: 28 mini seconds publishing process specific layout data
+Info: Task:project_acceptance_review: 15 mini seconds publishing element
+Info: TaskDescriptor:project_acceptance_review: 6 mini seconds publishing element
+Info: RoleDescriptor:project_reviewer: 2 mini seconds publishing element
+Info: WorkProductDescriptor:iteration_assessment: 3 mini seconds publishing element
+Info: WorkProductDescriptor:software_development_plan: 4 mini seconds publishing element
+Info: WorkProductDescriptor:status_assessment: 3 mini seconds publishing element
+Info: WorkProductDescriptor:review_record: 4 mini seconds publishing element
+Info: Task:prepare_for_project_close_out: 10 mini seconds publishing element
+Info: TaskDescriptor:prepare_for_project_close_out: 4 mini seconds publishing element
+Info: RoleDescriptor:project_manager: 3 mini seconds publishing element
+Info: WorkProductDescriptor:issues_list: 6 mini seconds publishing element
+Info: CapabilityPattern:Close-out_Phase: 67 mini seconds publishing element
+Info: CapabilityPattern:Close-out_Phase: 28 mini seconds publishing process specific layout data
+Info: Task:lifecycle_milestone_review: 290 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/activity/ac_lmrev.htm#Issues for Consideration
+Info: Task:lifecycle_milestone_review: 301 mini seconds publishing element
+Info: TaskDescriptor:lifecycle_milestone_review: 5 mini seconds publishing element
+Info: RoleDescriptor:project_reviewer: 2 mini seconds publishing element
+Info: WorkProductDescriptor:business_case: 8 mini seconds publishing element
+Info: WorkProductDescriptor:iteration_assessment: 6 mini seconds publishing element
+Info: WorkProductDescriptor:software_development_plan: 6 mini seconds publishing element
+Info: WorkProductDescriptor:status_assessment: 3 mini seconds publishing element
+Info: WorkProductDescriptor:review_record: 4 mini seconds publishing element
+Info: Task:preparre_for_phase_close_out: 290 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/activity/ac_pfmca.htm
+Info: Task:preparre_for_phase_close_out: 301 mini seconds publishing element
+Info: TaskDescriptor:preparre_for_phase_close_out: 5 mini seconds publishing element
+Info: RoleDescriptor:project_manager: 3 mini seconds publishing element
+Info: WorkProductDescriptor:issues_list: 3 mini seconds publishing element
+Info: CapabilityPattern:Monitor_and_Control_Project: 95 mini seconds publishing element
+Info: CapabilityPattern:Monitor_and_Control_Project: 41 mini seconds publishing process specific layout data
+Info: Task:pra_project_review: 15 mini seconds publishing element
+Info: TaskDescriptor:pra_project_review: 4 mini seconds publishing element
+Info: RoleDescriptor:project_reviewer: 2 mini seconds publishing element
+Info: WorkProductDescriptor:status_assessment: 4 mini seconds publishing element
+Info: WorkProductDescriptor:review_record: 6 mini seconds publishing element
+Info: Task:monitor_project_status: 295 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_rvrec.htm
+Info: Task:monitor_project_status: 287 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/glossary.htm#timeboxing
+Info: Task:monitor_project_status: 595 mini seconds publishing element
+Info: TaskDescriptor:monitor_project_status: 5 mini seconds publishing element
+Info: RoleDescriptor:project_manager: 4 mini seconds publishing element
+Info: WorkProductDescriptor:issues_list: 4 mini seconds publishing element
+Info: WorkProductDescriptor:measurement_plan: 3 mini seconds publishing element
+Info: WorkProductDescriptor:risk_management_plan: 2 mini seconds publishing element
+Info: WorkProductDescriptor:risk_list: 2 mini seconds publishing element
+Info: Task:schedule_and_assign_work: 14 mini seconds publishing element
+Info: TaskDescriptor:schedule_and_assign_work: 6 mini seconds publishing element
+Info: WorkProductDescriptor:work_order: 6 mini seconds publishing element
+Info: Task:report_status: 9 mini seconds publishing element
+Info: TaskDescriptor:report_status: 3 mini seconds publishing element
+Info: Task:handle_exceptions_and_problems: 7 mini seconds publishing element
+Info: TaskDescriptor:handle_exceptions_and_problems: 3 mini seconds publishing element
+Info: WorkProductDescriptor:problem_resolution_plan: 3 mini seconds publishing element
+Info: DeliveryProcess:Proceso: 334 mini seconds publishing element
+Info: DeliveryProcess:Proceso: 598 mini seconds publishing process specific layout data
+Info: CapabilityPattern:Conceive_New_Project: 67 mini seconds publishing element
+Info: CapabilityPattern:Evaluate_Project_Scope_and_Risk: 62 mini seconds publishing element
+Info: CapabilityPattern:Develop_Software_Development_Plan: 107 mini seconds publishing element
+Info: CapabilityPattern:Plan_for_next_iteration: 56 mini seconds publishing element
+Info: CapabilityPattern:Manage_Iteration: 87 mini seconds publishing element
+Info: CapabilityPattern:Evaluate_Project_Scope_and_Risk: 57 mini seconds publishing element
+Info: CapabilityPattern:Close-out_Project: 56 mini seconds publishing element
+Info: CapabilityPattern:Close-out_Phase: 55 mini seconds publishing element
+Info: CapabilityPattern:Plan_for_next_iteration: 65 mini seconds publishing element
+Info: CapabilityPattern:Develop_Software_Development_Plan: 108 mini seconds publishing element
+Info: CapabilityPattern:Monitor_and_Control_Project: 88 mini seconds publishing element
+Info: Template:html_iteration_plan: 105 mini seconds publishing element
+Info: Template:others: 291 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/wordtmpl/index.htm
+Info: Template:others: 297 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/wordtmpl/fm_indx.htm
+Info: Template:others: 301 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/webtmpl/index.htm
+Info: Template:others: 290 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/prjtmpl/index.htm
+Info: : 1193 mini-second(s) publishing element Template:others[ProjectManagement\guidances\templates\others_D00F336B.html]
+Info: Template:others: 1193 mini seconds publishing element
+Info: Example:collegiate_sports_paging_system: 316 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/rescenter.htm
+Info: Example:collegiate_sports_paging_system: 306 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ovu_webex.htm#Environment Set
+Info: Example:collegiate_sports_paging_system: 290 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ovu_webex.htm#Management Set
+Info: Example:collegiate_sports_paging_system: 294 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ovu_webex.htm#Requirements Set
+Info: Example:collegiate_sports_paging_system: 292 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ovu_webex.htm#Design Set
+Info: Example:collegiate_sports_paging_system: 292 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ovu_webex.htm#Implementation Set
+Info: Example:collegiate_sports_paging_system: 291 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ovu_webex.htm#Test Set
+Info: Example:collegiate_sports_paging_system: 291 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ovu_webex.htm#Deployment Set
+Info: Example:collegiate_sports_paging_system: 293 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ars_env.htm
+Info: Example:collegiate_sports_paging_system: 291 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ovu_webex.htm#Sets
+Info: Example:collegiate_sports_paging_system: 290 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_devcase.htm
+Info: Example:collegiate_sports_paging_system: 290 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ars_mgmt.htm
+Info: Example:collegiate_sports_paging_system: 295 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_risks1.htm
+Info: Example:collegiate_sports_paging_system: 293 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_risks2.htm
+Info: Example:collegiate_sports_paging_system: 291 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_risks3.htm
+Info: Example:collegiate_sports_paging_system: 292 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_sdp.htm
+Info: Example:collegiate_sports_paging_system: 291 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_itplan1.htm
+Info: Example:collegiate_sports_paging_system: 296 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_itplan2.htm
+Info: Example:collegiate_sports_paging_system: 294 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_itplan3.htm
+Info: Example:collegiate_sports_paging_system: 290 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_itplan4.htm
+Info: Example:collegiate_sports_paging_system: 289 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_itassess1.htm
+Info: Example:collegiate_sports_paging_system: 291 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_itass.htm
+Info: Example:collegiate_sports_paging_system: 289 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_stsassess.htm
+Info: Example:collegiate_sports_paging_system: 291 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ars_req.htm
+Info: Example:collegiate_sports_paging_system: 304 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_rqmgt.htm
+Info: Example:collegiate_sports_paging_system: 293 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_vision.htm
+Info: Example:collegiate_sports_paging_system: 291 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_ucsurvey.htm
+Info: Example:collegiate_sports_paging_system: 295 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_uc.htm
+Info: Example:collegiate_sports_paging_system: 296 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_uc_appstry1.htm
+Info: Example:collegiate_sports_paging_system: 289 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_uc_appstry2.htm
+Info: Example:collegiate_sports_paging_system: 291 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_uc_edprf1.htm
+Info: Example:collegiate_sports_paging_system: 305 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_uc_edprf2.htm
+Info: Example:collegiate_sports_paging_system: 291 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_uc_pfee1.htm
+Info: Example:collegiate_sports_paging_system: 288 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_uc_pfee2.htm
+Info: Example:collegiate_sports_paging_system: 288 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_uc_prtadrpt1.htm
+Info: Example:collegiate_sports_paging_system: 297 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_uc_prtadrpt2.htm
+Info: Example:collegiate_sports_paging_system: 294 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_uc_pstadcnt1.htm
+Info: Example:collegiate_sports_paging_system: 291 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_uc_pstadcnt2.htm
+Info: Example:collegiate_sports_paging_system: 291 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_uc_prvfdbk1.htm
+Info: Example:collegiate_sports_paging_system: 291 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_uc_prvfdbk2.htm
+Info: Example:collegiate_sports_paging_system: 294 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_uc_rdcntnt1.htm
+Info: Example:collegiate_sports_paging_system: 297 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_uc_rdcntnt2.htm
+Info: Example:collegiate_sports_paging_system: 297 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_uc_sndcntnt1.htm
+Info: Example:collegiate_sports_paging_system: 295 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_uc_sndcntnt2.htm
+Info: Example:collegiate_sports_paging_system: 294 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_uc_sndpg1.htm
+Info: Example:collegiate_sports_paging_system: 293 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_uc_sndpg2.htm
+Info: Example:collegiate_sports_paging_system: 291 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_uc_subsc1.htm
+Info: Example:collegiate_sports_paging_system: 295 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_uc_subsc2.htm
+Info: Example:collegiate_sports_paging_system: 302 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_gloss1.htm
+Info: Example:collegiate_sports_paging_system: 290 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_gloss2.htm
+Info: Example:collegiate_sports_paging_system: 290 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_suppspc1.htm
+Info: Example:collegiate_sports_paging_system: 289 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_suppspc2.htm
+Info: Example:collegiate_sports_paging_system: 290 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_sspec.htm
+Info: Example:collegiate_sports_paging_system: 293 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_crdesbrf.htm
+Info: Example:collegiate_sports_paging_system: 293 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_descmp.htm
+Info: Example:collegiate_sports_paging_system: 301 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_navmap.htm
+Info: Example:collegiate_sports_paging_system: 290 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ars_dsg.htm
+Info: Example:collegiate_sports_paging_system: 289 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_sad.htm
+Info: Example:collegiate_sports_paging_system: 290 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_sadoc.htm
+Info: Example:collegiate_sports_paging_system: 295 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/root.html
+Info: Example:collegiate_sports_paging_system: 292 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_amdl.htm
+Info: Example:collegiate_sports_paging_system: 291 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_desmd.htm
+Info: Example:collegiate_sports_paging_system: 289 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ars_impl.htm
+Info: Example:collegiate_sports_paging_system: 307 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_intbldpln1.htm
+Info: Example:collegiate_sports_paging_system: 298 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_intbp.htm
+Info: Example:collegiate_sports_paging_system: 302 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ars_test.htm
+Info: Example:collegiate_sports_paging_system: 301 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_tstpln.htm
+Info: Example:collegiate_sports_paging_system: 299 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_tstrslt1.htm
+Info: Example:collegiate_sports_paging_system: 289 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_tstev.htm
+Info: Example:collegiate_sports_paging_system: 291 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ars_depl.htm
+Info: Example:collegiate_sports_paging_system: 291 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/csports/ex_relnotes.htm
+Info: Example:collegiate_sports_paging_system: 295 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_rlsnt.htm
+Info: : 21184 mini-second(s) publishing element Example:collegiate_sports_paging_system[ProjectManagement\guidances\examples\collegiate_sports_paging_system_CCC849CB.html]
+Info: Example:collegiate_sports_paging_system: 21185 mini seconds publishing element
+Info: Example:course_registration_system_example_website: 290 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/wyliecollegeexample/courseregistrationproject/index.htm
+Info: Example:course_registration_system_example_website: 290 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/examples/ovu_wylie_college.htm
+Info: Example:course_registration_system_example_website: 598 mini seconds publishing element
+Info: Guideline:iteration_plan: 88 mini seconds publishing element
+Info: Guideline:reviews: 302 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/referenc.htm#ROY98
+Info: Guideline:reviews: 318 mini seconds publishing element
+Info: Checklist:check_requiriments_attributes: 87 mini seconds publishing element
+Info: Concept:concept_requirement_types: 7 mini seconds publishing element
+Info: Concept:concept_traceability: 7 mini seconds publishing element
+Info: Concept:concepts_requirement: 10 mini seconds publishing element
+Info: Concept:concepts_requirements_management: 7 mini seconds publishing element
+Info: Template:html: 16 mini seconds publishing element
+Info: Guideline:risk_list: 289 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_rskli.htm#Introduction
+Info: Guideline:risk_list: 292 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_rskli.htm#Risk Management Strategies
+Info: Guideline:risk_list: 290 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_rskli.htm#Types of Risks
+Info: Guideline:risk_list: 288 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_rskli.htm#Resource Risks
+Info: Guideline:risk_list: 293 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_rskli.htm#Business Risks
+Info: Guideline:risk_list: 290 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_rskli.htm#Technical Risks
+Info: Guideline:risk_list: 296 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_rskli.htm#Schedule Risks
+Info: Guideline:risk_list: 310 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_rskli.htm#Top
+Info: Guideline:risk_list: 297 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/referenc.htm#BOE91
+Info: Guideline:risk_list: 297 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/referenc.htm#KAR96
+Info: : 2966 mini-second(s) publishing element Guideline:risk_list[ProjectManagement\guidances\guidelines\risk_list_4D932488.html]
+Info: Guideline:risk_list: 2966 mini seconds publishing element
+Info: Template:html_software_development_plan: 39 mini seconds publishing element
+Info: Guideline:software_development_plan: 293 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_prpln.htm#Length
+Info: Guideline:software_development_plan: 291 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_prpln.htm#Number
+Info: Guideline:software_development_plan: 290 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_prpln.htm#Aligning the Traditional Waterfall Review Sequence with the Iterative Approach
+Info: Guideline:software_development_plan: 301 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_prpln.htm#Top
+Info: Guideline:software_development_plan: 289 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_srs.htm
+Info: Guideline:software_development_plan: 290 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/activity/ac_iacrv.htm
+Info: Guideline:software_development_plan: 302 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_prodi.htm
+Info: Guideline:software_development_plan: 292 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/workers/wk_ccmgr.htm
+Info: Guideline:software_development_plan: 296 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/workers/wk_depm.htm
+Info: Guideline:software_development_plan: 294 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/workers/wk_crsdv.htm
+Info: Guideline:software_development_plan: 289 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/workers/wk_tlsmt.htm
+Info: Guideline:software_development_plan: 306 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/workers/wk_tchwr.htm
+Info: Guideline:software_development_plan: 289 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/workers/wk_sysad.htm
+Info: Guideline:software_development_plan: 291 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/workers/wk_codrv.htm
+Info: Guideline:software_development_plan: 300 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/workers/wk_desrv.htm
+Info: Guideline:software_development_plan: 294 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/workers/wk_arvwr.htm
+Info: Guideline:software_development_plan: 294 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/workers/wk_cmmgr.htm
+Info: Guideline:software_development_plan: 302 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/workers/wk_syint.htm
+Info: Guideline:software_development_plan: 300 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/workers/wk_tstr.htm
+Info: Guideline:software_development_plan: 302 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/workers/wk_tstds.htm
+Info: Guideline:software_development_plan: 306 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/workers/wk_dbdsr.htm
+Info: Guideline:software_development_plan: 293 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/workers/wk_uides.htm
+Info: Guideline:software_development_plan: 290 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/workers/wk_ucaut.htm
+Info: Guideline:software_development_plan: 298 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/workers/wk_implm.htm
+Info: Guideline:software_development_plan: 296 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/workers/wk_dsgnr.htm
+Info: Guideline:software_development_plan: 312 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/workers/wk_archt.htm
+Info: Guideline:software_development_plan: 294 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/workers/wk_bmrv.htm
+Info: Guideline:software_development_plan: 293 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/workers/wk_bdes.htm
+Info: Guideline:software_development_plan: 294 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/workers/wk_bpan.htm
+Info: Guideline:software_development_plan: 292 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/workers/wk_reqrv.htm
+Info: Guideline:software_development_plan: 295 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/workers/wk_prcen.htm
+Info: Guideline:software_development_plan: 291 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/workers/wk_sthld.htm
+Info: Guideline:software_development_plan: 290 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/workers/wk_prrev.htm
+Info: : 9774 mini-second(s) publishing element Guideline:software_development_plan[ProjectManagement\guidances\guidelines\software_development_plan_CF72DC6F.html]
+Info: Guideline:software_development_plan: 9774 mini seconds publishing element
+Info: Template:html_template_vision: 66 mini seconds publishing element
+Info: Template:html_template_vision_for_small_project: 32 mini seconds publishing element
+Info: Checklist:check_stakeholder_request: 7 mini seconds publishing element
+Info: Checklist:check_vision: 7 mini seconds publishing element
+Info: Template:html_business_case: 20 mini seconds publishing element
+Info: Guideline:business_case: 9 mini seconds publishing element
+Info: Template:html_measurement_plan: 21 mini seconds publishing element
+Info: Guideline:metrics: 296 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/referenc.htm#PMI96
+Info: Guideline:metrics: 312 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/referenc.htm#JEF01
+Info: Guideline:metrics: 297 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ovu_arts.htm
+Info: Guideline:metrics: 293 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_rattr.htm
+Info: Guideline:metrics: 300 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_ucmod.htm
+Info: Guideline:metrics: 293 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/referenc.htm#HEND96
+Info: Guideline:metrics: 291 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_impmd.htm
+Info: : 2122 mini-second(s) publishing element Guideline:metrics[ProjectManagement\guidances\guidelines\metrics_2E1FB8BA.html]
+Info: Guideline:metrics: 2122 mini seconds publishing element
+Info: Template:html_risk_management_plan: 21 mini seconds publishing element
+Info: Template:html_product_acceptance_plan: 25 mini seconds publishing element
+Info: Template:html_problem_resolution_plan: 21 mini seconds publishing element
+Info: Template:html_quality_assurance_plan: 26 mini seconds publishing element
+Info: Template:html_test_plan: 47 mini seconds publishing element
+Info: Checklist:checkpoinst_test_plan: 4 mini seconds publishing element
+Info: Guideline:test_plan: 293 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_tstpl.htm#Top
+Info: Guideline:test_plan: 305 mini seconds publishing element
+Info: Template:html_iteration_assessment: 14 mini seconds publishing element
+Info: Guideline:reviews: 6 mini seconds publishing element
+Info: Guideline:classifying_artifacts: 290 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/modguide/md_review.htm
+Info: Guideline:classifying_artifacts: 301 mini-seconds referencing external URL: https://www.tesestec.com.br/pasteurjr/rup/process/workflow/busmodel/co_scobm.htm
+Info: Guideline:classifying_artifacts: 601 mini seconds publishing element
+Info: Guideline:decisions_in_enviroment: 4 mini seconds publishing element
+Info: Guideline:decisions_in_project_management: 3 mini seconds publishing element
+Info: Guideline:decisions_in_requirements: 4 mini seconds publishing element
+Info: Guideline:process_discriminants: 11 mini seconds publishing element
+Info: Guideline:review_levels: 4 mini seconds publishing element
+Info: Template:html_development_organization_assessment: 24 mini seconds publishing element
+Info: Guideline:development_organization_assessment: 9 mini seconds publishing element
+Info: Template:html_status_assessment: 12 mini seconds publishing element
+Info: Template:html_test_evaluation_summary: 15 mini seconds publishing element
+Info: CustomCategory:custom_category_vista: 145 mini seconds publishing element
+Info: : 84 seconds validating external links
+Info: : Publishing time: 2 minutes 13 seconds

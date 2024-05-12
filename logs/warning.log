@@ -1,0 +1,2 @@
+Warning: Artifact:review_record: Unable to connect to URL 'https://www.tesestec.com.br/pasteurjr/rup/process/artifact/ar_qapl.htm': Server redirected too many  times (20)
+Warning: Task:define_project_organization_and_staffing: Unable to connect to URL 'http://sunset.usc.edu/COCOMOII/cocomo.html': Connection timed out: connect
